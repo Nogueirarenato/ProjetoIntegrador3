@@ -13,6 +13,10 @@ background-color: rgb(216, 213, 213);
     
 }
 
+img{
+    cursor: pointer;
+}
+
 table.tableizer-table {
     font-size: 12px;
    
@@ -38,12 +42,12 @@ table.tableizer-table {
     font-weight: bold;
 }
 .y{
-    background-color: rgb(223, 223, 87);
+    background-color: rgb(248, 248, 66);
     font-weight: bold;
 }
 
 .g{
-    background-color: rgb(60, 211, 60);
+    background-color: rgb(50, 206, 50);
     font-weight: bold;
 }
 
