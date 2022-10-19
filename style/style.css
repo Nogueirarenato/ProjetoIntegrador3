@@ -2,7 +2,7 @@
 padding: 0;
 margin: 0;
 text-align: center;
-background-color: rgb(241, 234, 234);
+background-color: rgb(216, 213, 213);
 
 }
 
@@ -38,12 +38,12 @@ table.tableizer-table {
     font-weight: bold;
 }
 .y{
-    background-color: yellow;
+    background-color: rgb(223, 223, 87);
     font-weight: bold;
 }
 
 .g{
-    background-color: rgb(70, 226, 70);
+    background-color: rgb(60, 211, 60);
     font-weight: bold;
 }
 
