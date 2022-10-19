@@ -13,6 +13,10 @@ background-color: rgb(216, 213, 213);
     
 }
 
+.inicio{
+    margin: 1%
+}
+
 img{
     cursor: pointer;
 }
